@@ -1,3 +1,6 @@
-## Introduction to SQL
-`0-list_databases`
-- A script that lists all databases of the MySQL server
+#Introduction to SQL
+## Resources
+[What is Database & SQL?](https://youtu.be/FR4QIeZaPeM)
+[How to Install mysql on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04)
+
+
